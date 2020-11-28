@@ -1,4 +1,4 @@
 #master branch
 spring:
   application:
-    name: master-config 1
+    name: master-config 2
